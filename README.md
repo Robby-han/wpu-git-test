@@ -1,2 +1,2 @@
 # wpu-git-test
-test git remote
+test git remote index
